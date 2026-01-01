@@ -42,7 +42,7 @@ Copy code
 ---
 
 ## ⚙️ How to Run the Project
-1. Create database in MySQL:
+Create database in MySQL:
 ```sql
 CREATE DATABASE studentdb;
 Update MySQL username and password in hibernate.cfg.xml
@@ -70,47 +70,3 @@ Copy code
 
 ---
 
-# 🚀 STEP 3: Create GitHub Repository (ONLINE)
-
-1. Open 👉 https://github.com
-2. Click **➕ New repository**
-3. Repository name:
-student-management-hibernate
-
-markdown
-Copy code
-4. Description:
-Java + Hibernate + MySQL CRUD Project
-
-yaml
-Copy code
-5. Choose **Public**
-6. ❌ Do NOT add README (we already created)
-7. Click **Create repository**
-
----
-
-# 🚀 STEP 4: Upload Code to GitHub (EASY METHOD)
-
-### 🔹 METHOD 1: Upload via Browser (Recommended for beginners)
-
-1. Open your new GitHub repository
-2. Click **Add file → Upload files**
-3. Drag & drop:
-   - `src` folder
-   - `pom.xml`
-   - `README.md`
-4. Click **Commit changes**
-
-🎉 DONE!
-
----
-
-# 🚀 STEP 5: (OPTIONAL) Use Git from VS Code (Advanced)
-
-If you want professional way later, tell me — I’ll guide you with:
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git push
